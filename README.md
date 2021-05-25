@@ -1,6 +1,6 @@
-# Run-buddy 
-    ##### im not sure [codenameabel](codenameabel/run-buddy) [Email Me](newabelmartinez@gmail.com) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
-    #### ReadMeGenerator© 2020 All Rights Reserved.  GVL-GPL 3.0 All material must be cited or credited, when using material (free to use).
+# README2
+    ##### none [codenameabel](https://github.com/codenameabel/README2#run-buddy) [Email Me](newabelmartinez@gmail.com) [Deployed Application]
+    #### ReadMeGenerator© 2020 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
     
     ## Table of Contents
     * [Repository Description](#Repository-Description)
@@ -12,12 +12,11 @@
     
     # Repository Description
     ###### [Back to Table of Contents](#Table-of-Contents)
-    this is a sign-up form for runners 
+    creates readme files for busy developers who don't have time to create one. 
     
-    Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
+    Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development.
     
     ## User Story
-    ### As the Quiz Administrator
     ###### [Back to Table of Contents](#Table-of-Contents)
     1.   I a command-line application that accepts user input.
     2.   I want to be prompted for information about my application repository.
@@ -31,47 +30,44 @@
     
     ### Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
-    nope just me 
+    open source 
     
     
     ## Test Instructions
     ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  2
-    2.  3 
-    3.  3
+    1.  install node 
+    2.  require inquirer 
+    3.  
     
     
     ## Overview: What We Accomplished!
     ### Workflow [Back to Table of Contents](#Table-of-Contents)
-    this app was accomplished my me 
+    lead developer for porject 
     
     
     ### Screenshots (Building this application)
     ###### [Back to Table of Contents](#Table-of-Contents)
-    #### Demo I createad ![script.js](d )
+    #### Demo I createad ![script.js]('/Users/abelmartinez/Desktop/Screenshots/Screen Shot 2021-03-27 at 3.13.40 PM.png')
     
-    #### Demo I createad ![fileGenerator.js]( d)
+    #### Demo I createad ![fileGenerator.js]()
     
-    #### Demo I createad ![ReadMe.md](d)
+    #### Demo I createad ![ReadMe.md]()
     
     
     ## References
     ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  d
+    1.  npm.com
     
-    2.  d
+    2.  
     
     ## Repositiory End-Goal Criterea
     ###### [Back to Table of Contents](#Table-of-Contents)
-    
+    to make developer world more efficient 
     
     ## License
-    GVL-GPL 3.0
+    MIT
     
-    Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/CodeQuiz ).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
-    
+    Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/codenameabel).  Thank you for viewing! - Abel Martinez, [2021-present] All Rights Reserved
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-    
-    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-    
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
